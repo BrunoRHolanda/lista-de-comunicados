@@ -18,21 +18,22 @@ limitations under the License.
 
 ## Resumo do projeto
 
- - Estrutura
-    ---- build
-    ---- endpoints
-    -------- files
-    ---- src
-    -------- components
-    -------- features
-    ------------ comunicados
-    -------- http
-    -------- layouts
-    ------------ default
-    -------- plugins
-    -------- scss
-    -------- store
-    ---- test
+- Estrutura
+
+            ---- build
+            ---- endpoints
+            -------- files
+            ---- src
+            -------- components
+            -------- features
+            ------------ comunicados
+            -------- http
+            -------- layouts
+            ------------ default
+            -------- plugins
+            -------- scss
+            -------- store
+            ---- test
 
 ### build
 
