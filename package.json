@@ -1,7 +1,7 @@
 {
-  "name": "desafio-front-end",
-  "version": "0.0.0",
-  "description": "Desafio para desenvolvedores front-end",
+  "name": "lista-comunicados",
+  "version": "1.0.1",
+  "description": "Lista de comunicados",
   "dependencies": {
     "@babel/polyfill": "~7.2",
     "@mdi/js": "^4.3.95",
@@ -75,12 +75,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viniciusrebel/Desafio-Front-End.git"
+    "url": "git+https://github.com/sr-holanda/lista-de-comunicados.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Bruno R. Holanda <brunorodriguesholanda@gmail.com>",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/viniciusrebel/Desafio-Front-End/issues"
+    "url": "https://github.com/sr-holanda/lista-de-comunicados/issues"
   },
-  "homepage": "https://github.com/viniciusrebel/Desafio-Front-End#readme"
+  "homepage": "https://github.com/sr-holanda/lista-de-comunicados#readme"
 }
